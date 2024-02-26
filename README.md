@@ -1,5 +1,3 @@
-# Leetcode_Challenger
-
 # LeetCode Challenger
 
 Welcome to the LeetCode Challenger! This is where you can challenge your friends to solve LeetCode problems and see who comes out on top.
